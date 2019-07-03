@@ -5,5 +5,18 @@
 function mostrar()
 {
 
+
+	var dato;
+	dato=prompt('su nombre es');
+	document.getElementById('jere').value=dato;
+
+	
+
+
+
+
+
+// var document.getElementById ('ElId').value 
+
 }
 
