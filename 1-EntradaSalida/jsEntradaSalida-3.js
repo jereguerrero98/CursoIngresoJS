@@ -4,13 +4,9 @@ function mostrar()
 {
 	var dato;
 
-    alert(dato);
+dato = document.getElementById("elNombre").value ;
 
-   // dato = "anda?";
-
-   dato=document.getElementById('elnombre').value;
-    alert(dato);
-    
+alert ('su nombre es: ' + dato);
     
 }
 
