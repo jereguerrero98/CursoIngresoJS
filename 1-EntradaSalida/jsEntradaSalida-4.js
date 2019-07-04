@@ -4,19 +4,10 @@
 */
 function mostrar()
 {
+var dato;
 
+dato = prompt("ingrese su nombre: ");
 
-	var dato;
-	dato=prompt('su nombre es');
-	document.getElementById('jere').value=dato;
-
-	
-
-
-
-
-
-// var document.getElementById ('ElId').value 
-
+document.getElementById("elNombre").value=dato;
 }
 
