@@ -1,16 +1,16 @@
 function mostrar()
 {
-
+//declarar contadores y variables 
 	var contador=0;
-	//declarar contadores y variables 
-	
 	var respuesta="si";
+	var cantidad;
+	var numero;
 
-	while(respuesta!="no")
-	{
-		
+while(respuesta=="no"){
+	numero=prompt(numero);
+	numero=parseInt(numero);
 	
-	}
+}
 
 
 
